@@ -3,6 +3,7 @@
 <p align='center'> 
   <br>
 💻 Computer Scince, Junior 
+  <
 💻 Web developer
   <br>
 🎧 R&B DJ 
