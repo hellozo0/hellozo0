@@ -4,7 +4,7 @@
   <br>
 💻 Computer Scince, Junior 
   <br>
-💻 Web developer
+💻 Web developer...?
   <br>
 🎧 R&B DJ 
 </p>
