@@ -6,7 +6,7 @@
   <br>
 💻 Web developer
   <br>
-🎧 R&B DJ 
+ 
 </p>
 <br><br>
 
