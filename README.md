@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=Rstudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
 </p>
  
 <br><br>
