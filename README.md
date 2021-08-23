@@ -6,7 +6,7 @@
   <br>
 💻 Web developer
   <br>
- 
+💻 MacBook Pro M1 User
 </p>
 <br><br>
 
