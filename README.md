@@ -39,8 +39,8 @@
  
  <h3 align="center"> ⏱Experience </h3>
  <p align="center">
-- Sookmyung SISS (2019.03 ~ 2020.03)
-- Sookmyung LikeLion 9th (2021.03 ~)
+- Sookmyung SISS (2019.03 ~ 2020.03) <br>
+- Sookmyung LikeLion 9th (2021.03 ~) <br>
   - Hackathon FM(Find Medical) (2021.07~2021.08.13) -> Django
  </p>
  
@@ -48,8 +48,8 @@
  
   <h3 align="center">📝 I'm currently studying </h3>
  <p align="center">
-- JavaScript to Study React
-- Swift(iOS) Basics
+- JavaScript to Study React <br>
+- Swift(iOS) Basics <br>
 - Java, Spring
  </p>
  
