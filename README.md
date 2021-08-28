@@ -33,12 +33,27 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 </p>
+
+<br><br>
  
  
  <h3 align="center"> ⏱Experience </h3>
  <p align="center">
-  
-</p>
+- Sookmyung SISS (2019.03 ~ 2020.03)
+- Sookmyung LikeLion 9th (2021.03 ~)
+  - Hackathon FM(Find Medical) (2021.07~2021.08.13) -> Django
+ </p>
+ 
+ <br><br>
+ 
+  <h3 align="center">📝 I'm currently studying </h3>
+ <p align="center">
+- JavaScript to Study React
+- Swift(iOS) Basics
+- Java, Spring
+ </p>
+ 
+ 
  
 <br><br>
 <h3 align="center"> 🍒 Me 🍒 </h3>
