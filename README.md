@@ -4,7 +4,7 @@
   <br>
 💻 Computer Scince, Junior 
   <br>
-💻 Web developer
+💻 Websites..? developer
   <br>
 💻 MacBook Pro M1 User
 </p>
