@@ -38,7 +38,7 @@
  
  
  <h3 align="center"> ⏱Experience </h3>
- <p align="center">
+ <p >
 - Sookmyung SISS (2019.03 ~ 2020.03) <br>
 - Sookmyung LikeLion 9th (2021.03 ~) <br>
   - Hackathon FM(Find Medical) (2021.07~2021.08.13) -> Django
