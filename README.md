@@ -3,7 +3,6 @@
 
 Sookmyung Women's University(2019~)
 > Dept. of Computer Science
-
 <br><br>
 
 ## 🛠 Techs that I've used at least once 🛠
@@ -29,12 +28,14 @@ Sookmyung Women's University(2019~)
 - JavaScript to Study React 
 - Swift(iOS) Basics 
 - Java, Spring
+
  <br><br>
 ## ⏱ Experience ⏱
 -   Sookmyung SISS (2019.03 ~ 2020.03)
 -   Sookmyung LikeLion 9th (2021.03 ~)
 -   SOPT 29th iOS (2021.09~)
 <br><br>
+
 ## 📱Projects 📱
 - Hackathon FM(Find Medical) (2021.07~2021.08.13) 
  <br><br>
@@ -44,5 +45,3 @@ Sookmyung Women's University(2019~)
   <a href="https://www.instagram.com/hello_zo0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hello_zo0/"/></a>&nbsp
   <a href="ahju0011@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ahju0011@gmail.com"/></a>
 
-
- 
