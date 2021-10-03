@@ -4,6 +4,7 @@
 Sookmyung Women's University(2019~)
 > Dept. of Computer Science
 
+<br><br>
 
 ## 🛠 Techs that I've used at least once 🛠
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -22,21 +23,21 @@ Sookmyung Women's University(2019~)
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-
+<br><br>
 
 ## 🛠 I'm studying these tech 🛠
 - JavaScript to Study React 
 - Swift(iOS) Basics 
 - Java, Spring
- 
+ <br><br>
 ## ⏱ Experience ⏱
 -   Sookmyung SISS (2019.03 ~ 2020.03)
 -   Sookmyung LikeLion 9th (2021.03 ~)
 -   SOPT 29th iOS (2021.09~)
-
+<br><br>
 ## 📱Projects 📱
 - Hackathon FM(Find Medical) (2021.07~2021.08.13) 
- 
+ <br><br>
  
 ## 🍒 Me 🍒 
  <a href="https://hellozo0.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hellozo0.tistory.com/"/></a>&nbsp
