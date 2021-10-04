@@ -28,7 +28,6 @@ Sookmyung Women's University(2019~)
 - JavaScript to Study React 
 - Swift(iOS) Basics 
 - Java, Spring
-
  <br><br>
 ## ⏱ Experience ⏱
 -   Sookmyung SISS (2019.03 ~ 2020.03)
