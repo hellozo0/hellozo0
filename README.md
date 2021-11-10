@@ -25,8 +25,7 @@ Sookmyung Women's University(2019~)
 <br><br>
 
 ## 🛠 I'm studying these tech 🛠
-- JavaScript to Study React 
-- Swift(iOS) Basics 
+- Swift(iOS)
 - Java, Spring
  <br><br>
 ## ⏱ Experience ⏱
