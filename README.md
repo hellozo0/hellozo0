@@ -5,38 +5,34 @@ Sookmyung Women's University(2019~)
 > Dept. of Computer Science
 <br><br>
 
-## 🛠 Techs that I've used at least once 🛠
+##  🛠 I'm studying these tech 🛠
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/R-75AADB?style=flat-square&logo=Rstudio&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <br><br>
 
-## 🛠 I'm studying these tech 🛠
-- Swift(iOS)
-- Java, Spring
- <br><br>
 ## ⏱ Experience ⏱
--   Sookmyung SISS (2019.03 ~ 2020.03)
--   Sookmyung LikeLion 9th (2021.03 ~)
--   SOPT 29th iOS (2021.09~)
+  |기간|활동|기타|
+  |---|----|---|
+  |2019.03 - 2020.03|숙명여자대학교 정보보안 학회 SISS 20기 부원|C,Linux,Web Hacking|
+  |2021.03 - 2021.11|멋쟁이사자처럼 숙명여대 9기 수료|HTML,CSS,JS,Django,React|
+  |2021.09 - (진행중)|대학생 연합 IT 벤처 창업동아리 **SOPT** 29기 iOS파트|Swift, iOS|
+  |2022.03 - (예정)|멋쟁이사자처럼 숙명여대 10기 회장||
+
 <br><br>
 
 ## 📱Projects 📱
-- Hackathon FM(Find Medical) (2021.07~2021.08.13) 
- <br><br>
+|기간|활동|설명|
+|---|----|---|
+|2021.07 - 2021.08|멋사 해커톤 Project FM(Find Medical)|암에 대한 경각심을 일깨워주는 웹사이트 |
+|2021.11 - 2021.12|SOPT 29기 디자인,서버 합동 세미나 `세탁특공대`|리디자인된 기존의 앱을 구현하고, 서버 연결하기|
+|2021.11.20  - 2021.11.21|SOPT 29기 솝커톤 `ME:EW` 대상|공동체라는 주제로 기획,디자인,클라이언트,서버가 함께 만들어낸 TODO 기록 앱|
+
+<br><br>
  
 ## 🍒 Me 🍒 
  <a href="https://hellozo0.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hellozo0.tistory.com/"/></a>
