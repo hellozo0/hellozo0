@@ -35,6 +35,10 @@ Sookmyung Women's University(2019~)
 <br><br>
  
 ## 🍒 Me 🍒 
+
+ ![hellozo0 github stats](https://github-readme-stats.vercel.app/api?username=hellozo0&show_icons=true)
+[![hellozo0 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hellozo0&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hellozo0)
+
  <a href="https://hellozo0.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hellozo0.tistory.com/"/></a>
   <a href="https://www.instagram.com/hello_zo0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hello_zo0/"/></a>
   <a href="mailto:ahju0011@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ahju0011@gmail.com"/></a>
