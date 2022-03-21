@@ -21,7 +21,10 @@ Sookmyung Women's University(2019~)
   |2019.03 - 2020.03|숙명여자대학교 정보보안 학회 SISS 20기 부원|C,Linux,Web Hacking|
   |2021.03 - 2021.11|멋쟁이사자처럼 숙명여대 9기 수료|HTML,CSS,JS,Django,React|
   |2021.09 - 2022.01|대학생 연합 IT 벤처 창업동아리 **SOPT** 29기 iOS파트|Swift, iOS|
-  |2022.03 - (예정)|멋쟁이사자처럼 숙명여대 10기 회장||
+  |2022.03 - 2022.07|대학생 연합 IT 벤처 창업동아리 **SOPT** 30기 iOS파트|Swift, iOS|
+  |2022.03 - 2022.09|Team Runway 서버 개발자, iOS 서브개발자|Spring, Server, iOS|
+  |2022.03 - 2022.11|멋쟁이사자처럼 숙명여대 10기 회장|기획,디자인 파트 담당|
+
 
 <br><br>
 
