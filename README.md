@@ -1,7 +1,7 @@
 
 ## 🏫 Education 🏫
 
-Sookmyung Women's University(2019~)
+Sookmyung Women's University(2019~2025)
 > Dept. of Computer Science
 
 <br>
